@@ -14,7 +14,7 @@ public class WeatherApp extends JFrame {
     private JTextField conditionField;
     private JButton getWeatherButton;
 
-    private static final String API_KEY = "aba6ff9d6de967d5eac6fd79114693cc";
+    private static final String API_KEY = "Your_API_KEY";
 
     public WeatherApp() {
         initializeUI();
