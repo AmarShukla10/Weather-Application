@@ -4,9 +4,6 @@
 
 A simple desktop Weather App built with **Java Swing** that fetches real-time weather data using the **OpenWeatherMap API**.
 
-## 📸 Screenshot
-
-
 ## ✨ Features
 
 * Input any city name to get current weather data.
